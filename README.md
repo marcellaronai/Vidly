@@ -1,2 +1,2 @@
 # Vidly
-A video rental store web app
+A video rental store, .net web app
